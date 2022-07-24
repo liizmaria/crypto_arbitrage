@@ -36,10 +36,10 @@ Before running the application it is necessary to install the following dependen
 
 ## Usage
 
-To use the application you will need to clone the repo into your machine, navigate on terminal into it and open your [Jupyter Lab](https://github.com/jupyter/notebook) through your terminal to run the file **crypto_arbitrage.ipynb**: 
+To use the application you will need to clone the repo into your machine, navigate on terminal into it and open your [Jupyter Lab](https://github.com/jupyter/notebook) to run the file **crypto_arbitrage.ipynb**: 
 
 ![Crypto_Arbitrage](Initiating_JupyterLab.png)
-```
+
 
 ---
 
